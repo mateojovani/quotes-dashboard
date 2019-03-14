@@ -13,3 +13,4 @@ To run the unit tests `npm test`.
 Navigate to client and run `npm install` followed by `npm start`.
 Launch your browser at: http://localhost:3000
 
+![Screenshot](https://i.ibb.co/YDfN6Nd/quotes-dashboard.png)
